@@ -159,6 +159,10 @@ module.exports = function generateHTML(data, info) {
          text-align: center;
          }
 
+         i{
+           margin-right: 5px;
+         }
+
          a, a:hover {
          text-decoration: none;
          color: inherit;
